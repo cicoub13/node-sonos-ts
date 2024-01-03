@@ -115,6 +115,7 @@ sonos.PlayTTS({ text: 'Someone at the front-door', lang: 'en-US', gender: 'male'
 |----|----------|----------|
 |[sonos2mqtt](https://github.com/svrooij/sonos2mqtt)|[@svrooij](https://github.com/svrooij)|A bridge between sonos and mqtt, so you can control all your sonos devices right from your mqtt server|
 |[sonos-cli](https://github.com/svrooij/sonos-cli)|[@svrooij](https://github.com/svrooij)|An experimental command line interface for your sonos devices.|
+|[gladys-assistant](https://github.com/GladysAssistant/Gladys)|[@pierre-gilles](https://github.com/pierre-gilles)|A privacy-first, open-source home assistant.|
 
 Also using this library, but not in the list? Send a PR.
 
